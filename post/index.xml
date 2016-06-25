@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bug not found</title>
-    <link>https://bugnotfound.com/</link>
-    <description>Recent content on Bug not found</description>
+    <title>Posts on Bug not found</title>
+    <link>https://bugnotfound.com/post/</link>
+    <description>Recent content in Posts on Bug not found</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jun 2016 17:02:48 -0300</lastBuildDate>
-    <atom:link href="https://bugnotfound.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bugnotfound.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
@@ -15,21 +15,6 @@
       <pubDate>Sat, 25 Jun 2016 17:02:48 -0300</pubDate>
       
       <guid>https://bugnotfound.com/2016/06/hello-world/</guid>
-      <description>&lt;p&gt;Hi!
-I&amp;rsquo;m Danilo and I&amp;rsquo;m Infosec guy.
-I created this blog to talk about Infosec related stuff that I hope you will enjoy.
-Whenever I have some time I play CTF/Wargames with &lt;a href=&#34;https://thegoonies.rocks&#34;&gt;TheGoonies CTF Team&lt;/a&gt; (&lt;a href=&#34;https://ctftime.org/team/10288&#34;&gt;CTFtime&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;You can contact me on Twitter &lt;a href=&#34;https://twitter.com/DaniloNC&#34;&gt;@DaniloNC&lt;/a&gt; or on IRC (danilonc@irc.freenode.net).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://bugnotfound.com/about/</link>
-      <pubDate>Sat, 25 Jun 2016 16:24:27 -0300</pubDate>
-      
-      <guid>https://bugnotfound.com/about/</guid>
       <description>&lt;p&gt;Hi!
 I&amp;rsquo;m Danilo and I&amp;rsquo;m Infosec guy.
 I created this blog to talk about Infosec related stuff that I hope you will enjoy.
